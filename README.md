@@ -17,7 +17,7 @@ Features:
 - Light / Dark mode
 - Websocket fallback: Polling with alerts
 - ORM using Prisma
-- MySQL database using Planetscale
+- PostgreSQL database using Neon
 - Authentication with Clerk
 
 ### Prerequisites
